@@ -1,0 +1,19 @@
+.wrapper {
+  background: #000;
+  color: rgb(147, 125, 4);
+  padding-top: 2rem;
+  min-height: 100vh;
+}
+
+
+
+.icon {
+  display: block;
+}
+
+.movie-card:hover .icon {
+  color:red;
+  zoom: 150%;
+  display: block;
+  cursor: pointer;
+}
